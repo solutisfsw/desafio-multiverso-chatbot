@@ -13,7 +13,7 @@ Considere também que as características de seu personagem tenham alguma relaç
 ## REGRAS GERAIS
 Estamos interessados em ver como você utiliza suas habilidades e novas tecnologias para se apresentar para o mercado. Que jeito melhor do que fazer um software que fale por você? Queremos que você nos apresente um chatbot que responda algumas perguntas sobre seu perfil. Aqui vão as regras.
 - Faça a [cópia](https://help.github.com/articles/fork-a-repo/) do repositório (fork), desenvolva e submeta uma [solicitação de mudança](https://help.github.com/articles/creating-a-pull-request/) (pull request) no branch master.
-- Em caso de dúvidas basta abrir uma issue com sua pergunta aqui mesmo no github que nossa equipe irá respondê-lo assim que possível.
+- Em caso de dúvidas basta abrir uma issue com sua pergunta (aqui mesmo no github) que nossa equipe irá respondê-lo assim que possível.
 - Caso ainda não tenha, crie uma conta gratuita na plataforma de nuvem da IBM (http://bluemix.com) e ative o serviço Watson Assistant.
 - Seu chatbot deve ser composto por configuração e contexto no Watson e uma interface que nos permita conversar com ele. 
 - Para a interface, podem ser utilizados pacotes prontos que podem ser facilmente encontrados na internet (inclusive no próprio site da IBM).
