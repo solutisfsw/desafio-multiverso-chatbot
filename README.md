@@ -7,6 +7,7 @@
 - habilidades especiais: (ex: qual seu diferencial de batalha?, quais são suas habilidades especiais?...)
 - experiências em combate (ex: Quais batalhas participou?, quais lições aprendidas na batalha?..)
 - resumo (ex: qual o resumo do guerreiro?, fale sobre você?...)
+
 Considere também que as características de seu personagem tenham alguma relação com você na vida real, assim a gente já lhe conhece melhor.
 
 ## REGRAS GERAIS
