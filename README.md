@@ -24,13 +24,9 @@ Estamos interessados em ver como você utiliza suas habilidades e novas tecnolog
 
 ## PLATAFORMAS
 - IBM (Watson Assistant)
-  
-## FRAMEWORKS
 
-### BACKEND
-- Não se aplica.
 
-### FRONTEND
+### INTERFACE
 O canal utilizado como interface para o chatbot deve ser uma aplicação Web. Sugerimos as seguintes tecnologias:
 - Node
 - Angular
