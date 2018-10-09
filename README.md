@@ -22,7 +22,7 @@ Estamos interessados em ver como você utiliza suas habilidades e novas tecnolog
 - Nas instruções para execução da interface devem estar presentes as credenciais da API do Watson, além de seu nome e e-mail utilizados no cadastro Gupy
 
 
-## PLATAFORMAS
+### PLATAFORMA
 - IBM (Watson Assistant)
 
 
