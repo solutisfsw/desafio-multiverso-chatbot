@@ -19,7 +19,10 @@ Estamos interessados em ver como você utiliza suas habilidades e novas tecnolog
 - Para a interface, podem ser utilizados pacotes prontos que podem ser facilmente encontrados na internet (inclusive no próprio site da IBM).
 - O contexto configurado no Watson (entidades, intenções e diálogos) também deve ser exportado e enviado junto com a interface.
 - Seu chatbot deve responder um conjunto mínimo de perguntas, mas não precisa parar por aí.
-- Nas instruções para execução da interface devem estar presentes as credenciais da API do Watson, além de seu nome e e-mail utilizados no cadastro Gupy
+- Nas instruções para execução da interface devem estar presentes seu nome e e-mail utilizados no cadastro Gupy
+- POR QUESTÕES DE SEGURANÇA: 
+    - O arquivo .env NÃO deve ser enviado no pull request por conter as credenciais.
+    - As credenciais da API do Watson deverão ser enviadas para o e-mail marx.correia@solutis.com.br, juntamente com seu nome e e-mail cadastrados no Gupy.
 
 
 ### PLATAFORMA
